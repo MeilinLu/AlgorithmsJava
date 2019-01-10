@@ -34,7 +34,7 @@ class Solution {
             else if (mid > x / mid)
                 end = mid;
             else
-                start = mid;
+                start = mid + 1;   // start = mid;  also work
         }
         return start;
     }
