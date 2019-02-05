@@ -14,7 +14,7 @@ Output: false
 Note:
 You may assume the string contains only lowercase alphabets.
 
-Simalar Question: Q383
+Simalar Question: Q383.
 
 */
 
